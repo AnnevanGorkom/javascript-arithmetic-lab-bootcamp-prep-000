@@ -1,3 +1,4 @@
 function add(a, b) {
-  result 'a + b'
+  number = a + b;
+  result number
 }
